@@ -15,6 +15,7 @@ For example, 16 cents could be:
 3 silver coins and 1 bronze coin, or
 1 gold coin, 1 silver coin, 1 bronze coin
 16 cents, divided three ways
+![image](https://user-images.githubusercontent.com/64829519/236397988-9f55cf48-0dc0-48ec-8042-469a2265299b.png)
 
 
 We’d like the last option because it uses the fewest coins.
